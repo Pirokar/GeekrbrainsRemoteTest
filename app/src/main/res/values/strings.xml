@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">A1L1_HelloWorld</string>
+    <string name="button">Button</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="another_text">Другой текст</string>
+
+    <string-array name="month">
+        <item>Январь</item>
+        <item>Февраль</item>
+    </string-array>
+</resources>

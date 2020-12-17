@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
             textView.setTextColor(color);
         });
 
+        //This is array from resources
         String[] months = getResources().getStringArray(R.array.month);
     }
 }
